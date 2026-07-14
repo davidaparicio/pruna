@@ -214,6 +214,7 @@ rapidata = [
     "rapidata>=3.0.0"
 ]
 dev = [
+    "diffusers>=0.37.0",
     "wget",
     "python-dotenv",
     "jsonschema",
