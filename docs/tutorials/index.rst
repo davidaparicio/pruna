@@ -58,6 +58,12 @@ These tutorials will guide you through the process of using |pruna| to optimize 
 
       ``Evaluate`` image generation quality with ``CMMD`` and ``EvaluationAgent``.
 
+   .. grid-item-card:: Evaluating Sustainability using EvaluationAgent
+      :text-align: center
+      :link: ./evaluation_agent_sustainability.ipynb
+
+      ``Evaluate`` energy, CO2, and time with ``EvaluationAgent``, comparing ``deepcache`` and ``torch_compile`` against a baseline.
+
    .. grid-item-card:: x2 smaller Sana diffusers in action
       :text-align: center
       :link: ./sana_diffusers_int8.ipynb
@@ -125,4 +131,3 @@ These tutorials will guide you through the process of using |pruna| to optimize 
    :glob:
 
    ./*
-
